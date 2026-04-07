@@ -9,3 +9,4 @@ Self-contained **public samples** packaged like typical script handoffs (README,
 | [streamlit_weather_board](streamlit_weather_board/) | Streamlit UI + Open-Meteo charts (good for screenshots) |
 | [csv_group_summary](csv_group_summary/) | CSV → group by column → sum → output CSV (stdlib) |
 | [open_meteo_cli](open_meteo_cli/) | REST API → JSON → CLI output (stdlib) |
+| [psy_for_it_bot](psy_for_it_bot/) | Psy for IT: aiogram + PostgreSQL + Redis + Docker, user/consultant/owner roles |

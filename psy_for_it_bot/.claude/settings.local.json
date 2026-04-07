@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Bash(brew list)",
+      "Read(//usr/local/bin/**)",
+      "Read(//opt/homebrew/**)",
+      "Bash(docker --version)",
+      "Bash(docker compose version)",
+      "Bash(python3 -c \":*)",
+      "Bash(pip3 --version)",
+      "Bash(brew services list)",
+      "Bash(brew --version)",
+      "Read(//var/run/**)",
+      "Read(//usr/bin/**)",
+      "Bash(python3 -c \"import sys; print\\(sys.executable\\)\")",
+      "Bash(bash -l -c \"which docker; docker --version\")",
+      "Bash(bash -l -c \"which docker-compose; docker-compose --version\")",
+      "Bash(echo \"PATH=$PATH\")",
+      "WebSearch"
+    ]
+  }
+}
